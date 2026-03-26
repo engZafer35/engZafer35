@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Zafer Satılmış
 ![Snake animation](https://github.com/engZafer35/engZafer35/blob/output/github-contribution-grid-snake.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight)  ![](https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight) 
+| Stats | Streak |
+|------|--------|
+| ![](https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight) | ![](https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight) |
 ---
 ## 🚀 Senior Embedded Software Engineer (10+ years)
 
