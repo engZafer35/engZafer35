@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Zafer Satılmış
+![Snake animation](https://github.com/engZafer35/engZafer35/blob/output/github-contribution-grid-snake.svg)
 
+![](https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight)  ![](https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight) 
+---
 ## 🚀 Senior Embedded Software Engineer (10+ years)
 
 I am a Senior Embedded Software Engineer with 10+ years of experience developing reliable and production-grade systems across microcontrollers, microprocessors, and embedded Linux platforms. I have worked on a wide range of environments, from **bare-metal and FreeRTOS-based systems to Linux kernel and user-space applications**.
@@ -8,7 +11,11 @@ I have strong experience in system **architecture design, building modular, scal
 
 My expertise includes **multithreaded** and **event-driven systems**, where I apply **OOP, SOLID principles, and TDD** to create clean and robust codebases. I am also Linux kernel development, including device drivers and system-level optimizations.
 
-I also focus on quality and automation, designing test infrastructures using **Robot Framework** and **Python**, integrated with CI/CD pipelines for continuous testing and reliable releases. Additionally, I have developed **Qt-based simulation systems (SIL)** to enable efficient development without hardware dependency.
+I also focus on quality and automation, designing test infrastructures using **Robot Framework** and **Python**, integrated with CI/CD pipelines for continuous testing and reliable releases. Additionally, I have developed **Qt-based simulation systems (SIL)** to enable efficient development without hardware dependency. 💡 Building scalable, reliable, and fully tested embedded systems.
+## 📫 Contact
+
+- 📧 https://www.linkedin.com/in/zafersatilmis/
+---
 
 ## 🧩 Technical Expertise
 
@@ -23,21 +30,31 @@ I also focus on quality and automation, designing test infrastructures using **R
 - **Connectivity:** AT Commands, GSM Modem, PPP Connection  
 
 ---
+## 🛠️ Engineering Expertise
 
-💡 Building scalable, reliable, and fully tested embedded systems.
+- Embedded Linux / Kernel Development  
+- FreeRTOS / Bare Metal Systems  
+- Multithreading & POSIX  
+- TCP/IP, MQTT, LwIP  
+- BSP & Driver Development  
+- Hardware Interfaces (UART, SPI, I2C, CAN, RS485)  
+- CI/CD & Test Automation  
+- Qt Simulation Systems  
 
 ---
 
-## 🧩 Tech Badges
-## 🧩 Tech Stack & Tools
+## 👨‍💻 Experience Snapshot
 
+- 🧠 System Architect & Senior Engineer (MASS Project)
+- 👨‍👨‍👦 Team Lead – Telecom Projects (AT&T)
+- ⚙️ Embedded systems across defense, telecom, IoT & payment systems
+
+---
+## 🧩 Tech Stack & Tools
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
----
-
 ### ⚙️ Embedded & OS
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-222222?style=for-the-badge&logo=linux)
 ![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-FCC624?style=for-the-badge&logo=linux)
@@ -47,16 +64,12 @@ I also focus on quality and automation, designing test infrastructures using **R
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6F42C1?style=for-the-badge)
 ![Microprocessors](https://img.shields.io/badge/Microprocessors-20C997?style=for-the-badge)
 
----
-
 ### 🔌 Hardware & Interfaces
 ![UART](https://img.shields.io/badge/UART-00599C?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-FF5733?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-6F42C1?style=for-the-badge)
 ![CAN-BUS](https://img.shields.io/badge/CAN--BUS-20C997?style=for-the-badge)
 ![RS485](https://img.shields.io/badge/RS485-FFC107?style=for-the-badge)
-
----
 
 ### 🌐 Networking & Communication
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
@@ -69,8 +82,6 @@ I also focus on quality and automation, designing test infrastructures using **R
 ![AT Commands](https://img.shields.io/badge/AT%20Commands-FFC107?style=for-the-badge)
 ![GSM Modem](https://img.shields.io/badge/GSM%20Modem-343A40?style=for-the-badge)
 
----
-
 ### 🧠 Software Design
 ![Multithreading](https://img.shields.io/badge/Multithreading-00599C?style=for-the-badge)
 ![Multitasking](https://img.shields.io/badge/Multitask%20Programming-20C997?style=for-the-badge)
@@ -79,15 +90,11 @@ I also focus on quality and automation, designing test infrastructures using **R
 ![SOLID](https://img.shields.io/badge/SOLID-17A2B8?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-FFC107?style=for-the-badge)
 
----
-
 ### 🧪 Testing & Automation
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge)
 ![Google Test](https://img.shields.io/badge/Google%20Test-4285F4?style=for-the-badge&logo=google)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-20C997?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF5733?style=for-the-badge&logo=githubactions)
-
----
 
 ### 🛠️ Tools & Simulation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -125,13 +132,7 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 ---
 
-## 📊 GitHub Analytics
 
-### 🔥 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight)
-
-### 🚀 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=engZafer35&theme=tokyonight)
 
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engZafer35&layout=compact&theme=tokyonight)
@@ -141,37 +142,8 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 ---
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/engZafer35/engZafer35/blob/output/github-contribution-grid-snake.svg)
 
----
-
-## 🛠️ Engineering Expertise
-
-- Embedded Linux / Kernel Development  
-- FreeRTOS / Bare Metal Systems  
-- Multithreading & POSIX  
-- TCP/IP, MQTT, LwIP  
-- BSP & Driver Development  
-- Hardware Interfaces (UART, SPI, I2C, CAN, RS485)  
-- CI/CD & Test Automation  
-- Qt Simulation Systems  
-
----
-
-## 👨‍💻 Experience Snapshot
-
-- 🧠 System Architect & Senior Engineer (MASS Project)
-- 👨‍👨‍👦 Team Lead – Telecom Projects (AT&T)
-- ⚙️ Embedded systems across defense, telecom, IoT & payment systems
-
----
-
-## 📫 Contact
-
-- 📧 https://www.linkedin.com/in/zafersatilmis/
----
 
 ## 💡 Philosophy
 
