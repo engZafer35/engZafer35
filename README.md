@@ -51,6 +51,10 @@ I also focus on quality and automation, designing test infrastructures using **R
 - ⚙️ Embedded systems across defense, telecom, IoT & payment systems
 
 ---
+## 💡 Philosophy
+- Build reliable systems. Automate everything. Scale without fear.
+---
+
 ## 🧩 Tech Stack & Tools
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -141,8 +145,3 @@ I also focus on quality and automation, designing test infrastructures using **R
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engZafer35&theme=tokyo-night)
 
----
-
-## 💡 Philosophy
-
-> Build reliable systems. Automate everything. Scale without fear.
