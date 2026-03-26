@@ -3,8 +3,8 @@
 
 ## 🔥 Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight" height="180"/>
 </p>
 
 ## 🚀 Senior Embedded Software Engineer (10+ years)
