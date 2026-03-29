@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Zafer Satılmış
 ![Snake animation](https://github.com/engZafer35/engZafer35/blob/output/github-contribution-grid-snake.svg)
 
-| 🔥 Stats |⚡ Streak |
-|------|--------|
-| ![](https://github-readme-stats.vercel.app/api?username=engZafer35&show_icons=true&theme=tokyonight) | ![](https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight) |
+| 🔥 Stats | ⚡ Streak |
+|----------|-----------|
+| <img src="https://ghstats.dev/api/card?username=engZafer35&theme=tokyonight" height="400" width="500"> | <img src="https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight" height="400" width="500"> |
 ## 🚀 Senior Embedded Software Engineer (10+ years)
 
 I am a Senior Embedded Software Engineer with 10+ years of experience developing reliable and production-grade systems across microcontrollers, microprocessors, and embedded Linux platforms. I have worked on a wide range of environments, from **bare-metal and FreeRTOS-based systems to Linux kernel and user-space applications**.
