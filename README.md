@@ -140,7 +140,7 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 | 🔥 Top Languages | 🤘 Streak 🤘|
 |-----------------|-----------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engZafer35&layout=compact&theme=tokyonight) | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRyaHB0dWd6enN3c21iZHB4MnBjdnlzMnBmYXF5dm9ka2xoeDB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0PahT093UPe/giphy.gif" height="200" width="250"> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engZafer35&layout=compact&theme=tokyonight) |  |
 
 </div>
 
