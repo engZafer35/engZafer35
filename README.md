@@ -144,6 +144,8 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engZafer35&layout=compact&theme=tokyonight)
+
 ---
 
 ### 📈 Activity Graph
