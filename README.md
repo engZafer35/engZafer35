@@ -136,11 +136,15 @@ I also focus on quality and automation, designing test infrastructures using **R
 - 🔹 https://github.com/engZafer35/Apartment_Management_System  
 
 ---
+<div align="center">
 
+| 🔥 Top Languages | 🤘 Streak 🤘|
+|-----------------|-----------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engZafer35&layout=compact&theme=tokyonight) | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRyaHB0dWd6enN3c21iZHB4MnBjdnlzMnBmYXF5dm9ka2xoeDB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0PahT093UPe/giphy.gif" height="200" width="250"> |
 
+</div>
 
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engZafer35&layout=compact&theme=tokyonight)
+---
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engZafer35&theme=tokyo-night)
