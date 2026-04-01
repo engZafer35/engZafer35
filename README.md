@@ -3,7 +3,7 @@
 
 | 🔥 Stats | ⚡ Streak |
 |----------|-----------|
-| <img src="https://ghstats.dev/api/card?username=engZafer35&theme=tokyonight" height="500" width="450"> | <img src="https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight" height="200" width="500"><br><div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRyaHB0dWd6enN3c21iZHB4MnBjdnlzMnBmYXF5dm9ka2xoeDB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0PahT093UPe/giphy.gif" height="200" width="250"></div> |
+| <img src="https://ghstats.dev/api/card?username=engZafer35&theme=tokyonight" height="600" width="450"> | <img src="https://streak-stats.demolab.com/?user=engZafer35&theme=tokyonight" height="200" width="500"><br><div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRyaHB0dWd6enN3c21iZHB4MnBjdnlzMnBmYXF5dm9ka2xoeDB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0PahT093UPe/giphy.gif" height="200" width="350"></div> |
 ## 🚀 Senior Embedded Software Engineer (10+ years)
 
 I am a Senior Embedded Software Engineer with 10+ years of experience developing reliable and production-grade systems across microcontrollers, microprocessors, and embedded Linux platforms. I have worked on a wide range of environments, from **bare-metal and FreeRTOS-based systems to Linux kernel and user-space applications**.
