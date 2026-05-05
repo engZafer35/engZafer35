@@ -1,3 +1,6 @@
+<img align="right " src="https://visitor-badge.laobi.icu/badge?page_id=engZafer35">
+<br>
+
 # Hi there 👋 I'm Zafer Satılmış
 ![Snake animation](https://github.com/engZafer35/engZafer35/blob/output/github-contribution-grid-snake.svg)
 | 🔥 Stats | ⚡ Streak |
