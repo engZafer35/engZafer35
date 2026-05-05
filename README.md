@@ -1,6 +1,3 @@
-<img align="right " src="https://visitor-badge.laobi.icu/badge?page_id=engZafer35">
-<br>
-
 # Hi there 👋 I'm Zafer Satılmış
 ![Snake animation](https://github.com/engZafer35/engZafer35/blob/output/github-contribution-grid-snake.svg)
 | 🔥 Stats | ⚡ Streak |
@@ -147,4 +144,6 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engZafer35&theme=tokyo-night)
-
+<div align="center">
+  <img src=https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github />
+</div>
