@@ -144,6 +144,10 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engZafer35&theme=tokyo-night)
+
+<div align="center">
+<img src=https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/engZafer35 />
+</div>
 <div align="center">
   <img src=https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github />
 </div>
