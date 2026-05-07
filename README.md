@@ -146,8 +146,18 @@ I also focus on quality and automation, designing test infrastructures using **R
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engZafer35&theme=tokyo-night)
 
 <div align="center">
-<img src=https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/engZafer35 />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=engZafer35&label=Visitors&color=blueviolet&style=for-the-badge" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/engZafer35?label=Followers&style=for-the-badge&color=acda44" />
+
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/engZafer35?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&color=ffd700&labelColor=" />
+
 </div>
+
 <div align="center">
   <img src=https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github />
 </div>
