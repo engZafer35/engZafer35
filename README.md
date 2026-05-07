@@ -145,7 +145,6 @@ I also focus on quality and automation, designing test infrastructures using **R
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=engZafer35&theme=tokyo-night)
 
-<!--
 <div align="center">
 
   <!-- Profile Views -->
@@ -158,7 +157,7 @@ I also focus on quality and automation, designing test infrastructures using **R
   <img src="https://img.shields.io/github/stars/engZafer35?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&color=ffd700&labelColor=" />
 
 </div>
--->
+
 
 <div align="center">
   <img src=https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github />
