@@ -162,3 +162,6 @@ I also focus on quality and automation, designing test infrastructures using **R
 <div align="center">
   <img src=https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github />
 </div>
+<div align="center">
+  <a href="https://info.flagcounter.com/Vo9S"><img src="https://s05.flagcounter.com/countxl/Vo9S/bg_410A5C/txt_FFFFFF/border_CCCCCC/columns_6/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag   Counter" border="0"></a>
+</div>
