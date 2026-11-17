@@ -6,53 +6,131 @@
 
 ## 🚀 Senior Embedded Software Engineer (10+ years)
 
-I am a Senior Embedded Software Engineer with 10+ years of experience developing reliable and production-grade systems across microcontrollers, microprocessors, and embedded Linux platforms. I have worked on a wide range of environments, from **bare-metal and FreeRTOS-based systems to Linux kernel and user-space applications**.
+I am a Senior Embedded Software Engineer with 10+ years of experience developing reliable and production-grade systems across microcontrollers, microprocessors, and embedded Linux platforms — from **bare-metal and FreeRTOS** to **Linux kernel and user-space applications**.
 
-I have strong experience in system **architecture design, building modular, scalable, and maintainable software systems**. In addition to hands-on development, I have taken on technical leadership roles as a System Architect and Team Lead, guiding teams and managing complex development processes.
+I have strong experience in **system architecture**, building modular, scalable, and maintainable software. Beyond hands-on development, I have led as a **System Architect** and **Team Lead**, guiding teams through complex delivery in defense, telecom, IoT, and metering.
 
-My expertise includes **multithreaded** and **event-driven systems**, where I apply **OOP, SOLID principles, and TDD** to create clean and robust codebases. I am also Linux kernel development, including device drivers and system-level optimizations.
+My expertise covers **multithreaded** and **event-driven systems**, applying **OOP, SOLID, and TDD** for clean, robust codebases — including Linux kernel work, device drivers, and system-level optimizations.
 
-I also focus on quality and automation, designing test infrastructures using **Robot Framework** and **Python**, integrated with CI/CD pipelines for continuous testing and reliable releases. Additionally, I have developed **Qt-based simulation systems (SIL)** to enable efficient development without hardware dependency. 💡 Building scalable, reliable, and fully tested embedded systems.
+I care deeply about quality and automation: test infrastructures with **Robot Framework** and **Python**, wired into **CI/CD** for reliable releases, plus **Qt-based SIL** so teams can move fast without waiting on hardware.
+
+Alongside embedded delivery, I ship full products end-to-end — **CloudIotLab** (industrial IoT), **CouchIn** (Flutter realtime hangout), **BumpZone**, and **Word Ladder** — from architecture to mobile apps, backends, and ops.
+
+💡 Building scalable, reliable, fully tested systems — from embedded gateways to Flutter apps and realtime backends.
+
 ## 📫 Contact
 
-- 📧 https://www.linkedin.com/in/zafersatilmis/
+- 💼 https://www.linkedin.com/in/zafersatilmis/
+- 🏭 https://cloudiotlab.com
+- 🛋️ https://couchin.app
+
+---
+
+## 📱 Products I'm Shipping
+
+### 🏭 CloudIotLab — Industrial IoT Platform
+<img width="260" height="200" alt="image" src="https://github.com/user-attachments/assets/8b5ed1cf-6309-40aa-90eb-4b373cfc8fd9" />
+
+End-to-end industrial IoT: connect meters, PLCs & sensors, store time-series data, dashboards, alerts, and team sharing.
+
+- 🖥️ **Virtual Device Sandbox** — cloud devices with LEDs, live logs, restart / reconnect (no hardware needed)
+- 🧪 **Protocol Studio** — write C/Python protocol code, compile & run in the browser
+- 📡 **MQTT / TCP / HTTPS** routing · per-user private MQTT broker
+- 🧩 Gateway profiles (Linux / STM32) · templates (energy, water, gas, machine) · OTA path to real devices
+
+👉 [cloudiotlab.com](https://cloudiotlab.com)
+
+---
+
+### 🛋️ CouchIn — Speak & hang out together
+<img width="180" height="180" alt="Gemini_Generated_Image_hxuetfhxuetfhxue" src="https://github.com/user-attachments/assets/d9f34389-e4ee-440f-ad38-7c82091971d1" />
+
+Language practice that feels like a couch night — rooms for **Speak / Watch / Study / Play**.
+
+- 🎙️ LiveKit voice & video · presence · moderation
+- ▶️ Synced YouTube · whiteboard · chat · DMs / friends
+- 🎮 In-room games (Hangman, Taboo, BumpZone, …)
+- 📱 Flutter apps + FastAPI + Redis + React site / admin
+
+👉 [couchin.app](https://couchin.app)
+
+---
+
+### ⚔️ BumpZone — Realtime arena
+<img width="200" height="200" alt="Bump Zone_ Sky Arena Showdown" src="https://github.com/user-attachments/assets/b866a9ca-4289-4f4b-b997-f6234f73ce0b" />
+
+Flutter + Flame arena — offline bots **or** online WebSocket matches (also inside CouchIn).
+
+- 🕹️ 4-way pad · Fire · Super
+- 🤖 Local bot matches · lobby create/join online
+- 🗺️ Procedural arena + shared game core
+
+👉 [BumpZone — Realtime arena](https://engzafer35.github.io/Games/)
+
+---
+
+### 🔤 Word Ladder / Kelime Merdiveni
+
+<img width="320" height="160" alt="WordLadderAdventure" src="https://github.com/user-attachments/assets/d2aad9cc-7124-4804-b8d4-c5dbdcaa8f28" />
+
+Offline-first word-ladder puzzles — climb one letter at a time.
+
+- 🗺️ Stage map · themed packs · EN / TR (+ more locales on EN app)
+- ☁️ Fail-soft catalog/theme sync · force-update ops
+- 🛠️ Shared Games Backend + admin console
+
+👉 [ Word Ladder](https://engzafer35.github.io/Games/)
+
 ---
 
 ## 🧩 Technical Expertise
 
-- **Languages:** C, C++, Python  
+- **Languages:** C, C++, Python, Dart, TypeScript  
 - **Platforms:** Microcontrollers, Microprocessors, Embedded Linux, Linux Kernel, Ubuntu  
 - **RTOS & Systems:** FreeRTOS, Bare Metal, Event-Driven Architectures  
 - **Networking:** TCP/IP, UDP, MQTT, LwIP, CycloneTCP, Socket Programming  
+- **Realtime:** WebRTC, LiveKit, WebSockets  
 - **Hardware Interfaces:** UART, SPI, I2C, CAN-BUS, RS485  
+- **Connectivity:** AT Commands, GSM Modem, PPP Connection  
+- **Mobile:** Flutter, Flame (Android & iOS)  
+- **Backend & Web:** FastAPI, Redis, PostgreSQL, React, Vite, Docker  
 - **System Design:** Multithreading, OOP, SOLID, TDD  
 - **Testing & Automation:** Robot Framework, Google Test, CI/CD, Functional Testing  
 - **Simulation:** Qt, Software in the Loop (SIL)  
-- **Connectivity:** AT Commands, GSM Modem, PPP Connection  
 
 ---
+
 ## 🛠️ Engineering Expertise
 
 - Embedded Linux / Kernel Development  
 - FreeRTOS / Bare Metal Systems  
-- Multithreading & POSIX  
-- TCP/IP, MQTT, LwIP  
 - BSP & Driver Development  
 - Hardware Interfaces (UART, SPI, I2C, CAN, RS485)  
+- Multithreading & POSIX  
+- TCP/IP, MQTT, LwIP, GSM / PPP  
+- Industrial IoT platforms & protocol sandboxes  
+- Flutter mobile apps (Android & iOS)  
+- Realtime media & multiplayer (LiveKit / WebRTC / WebSocket)  
+- Backend APIs, Redis presence & Docker deploy  
 - CI/CD & Test Automation  
-- Qt Simulation Systems  
-
+- Qt Simulation Systems (SIL)
+   
 ---
 
 ## 👨‍💻 Experience Snapshot
 
 - 🧠 System Architect & Senior Engineer (MASS Project)
-- 👨‍👨‍👦 Team Lead – Telecom Projects (AT&T)
+- 🏭 CloudIotLab — Industrial IoT platform
+- 👨‍‍👦‍👦 Team Lead – Telecom Projects (AT&T)
 - ⚙️ Embedded systems across defense, telecom, IoT & payment systems
-
+- 📱 CouchIn — Flutter social / language hangout app (Android & iOS)
+- ⚔️ BumpZone — Flutter + Flame realtime arena game
+- 🔤 Word Ladder / Kelime Merdiveni — offline-first word puzzle apps
 ---
+
 ## 💡 Philosophy
 - Build reliable systems. Automate everything. Scale without fear.
+
 ---
 
 ## 🧩 Tech Stack & Tools
@@ -60,6 +138,9 @@ I also focus on quality and automation, designing test infrastructures using **R
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
 ### ⚙️ Embedded & OS
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-222222?style=for-the-badge&logo=linux)
 ![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-FCC624?style=for-the-badge&logo=linux)
@@ -68,6 +149,16 @@ I also focus on quality and automation, designing test infrastructures using **R
 ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-6C757D?style=for-the-badge)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6F42C1?style=for-the-badge)
 ![Microprocessors](https://img.shields.io/badge/Microprocessors-20C997?style=for-the-badge)
+
+### 📱 Mobile & Realtime
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Flame](https://img.shields.io/badge/Flame-FF6B00?style=for-the-badge)
+![LiveKit](https://img.shields.io/badge/LiveKit-8B5CF6?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ### 🔌 Hardware & Interfaces
 ![UART](https://img.shields.io/badge/UART-00599C?style=for-the-badge)
@@ -129,6 +220,12 @@ I also focus on quality and automation, designing test infrastructures using **R
 
 ## 📂 Featured Projects
 
+### Products
+- 🔹 [CloudIotLab](https://cloudiotlab.com)  
+- 🔹 [CouchIn](https://couchin.app)  
+- 🔹 [BumpZone · Word Ladder / Kelime Merdiveni](https://engzafer35.github.io/Games/)  
+
+### Open source
 - 🔹 https://github.com/engZafer35/iVIS  
 - 🔹 https://github.com/engZafer35/Aviora  
 - 🔹 https://github.com/engZafer35/ZLogger  
@@ -159,5 +256,5 @@ I also focus on quality and automation, designing test infrastructures using **R
 </div>
 
 <div align="center">
-  <img src=https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github />
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=engZafer35&displayMode=topCountries&columns=4&maxflags=20&theme=github" />
 </div>
